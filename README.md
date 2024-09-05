@@ -1,4 +1,6 @@
-Python Mini-Projects for Pentesters
+Python Mini-Projects for Pentesters.
+
+
 Welcome to the Python Mini-Projects for Pentesters repository! This repository contains a series of Python projects tailored for penetration testing purposes.
 
 Objective
